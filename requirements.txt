@@ -1,0 +1,10 @@
+numpy
+pandas
+evaluate
+matplotlib
+scikit-learn
+seqeval
+transformers
+datasets
+torch
+huggingface_hub
